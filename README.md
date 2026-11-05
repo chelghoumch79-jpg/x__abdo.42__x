@@ -1,6 +1,6 @@
 <meta property="og:title" content="mala.k26837">
 <meta property="og:description" content="Malak 🐚">
-<meta property="og:type" content="website">
+<meta property="og:type" content="object">
 <meta property="og:image" content="https://i.ibb.co/gZn6W1CV/IMG-6974.png">
 
 <title>Video Fullscreen</title>
@@ -102,4 +102,4 @@
     // تنفيذ الكود عند أول نقرة أو لمسة فقط
     window.addEventListener('click', handleUserInteraction, { once: true });
     window.addEventListener('touchstart', handleUserInteraction, { once: true });
-</script># x__abdo.42__x
+</script>
